@@ -61,6 +61,14 @@ It demonstrates my ability to implement <span style="color:#87CEEB;"><b>modern U
 
 ---
 
+## ▶️ How to Run Locally
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Esraa-Abdallah21010/Product-preview-card-component.git
+```
+---
+
 ## 📫 Connect With Me
 <p align="center">
   <a href="mailto:esraaabdallah21010@gmail.com">
