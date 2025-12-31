@@ -49,6 +49,12 @@ It demonstrates my ability to implement <span style="color:#87CEEB;"><b>modern U
 
 ---
 
+## ⚡ Challenges Faced
+- Making the card fully responsive without breaking the layout
+- Ensuring hover effects worked smoothly on both desktop and mobile
+
+---
+
 ## 🔗 Live Demo
 [View Live Project](https://esraa-abdallah21010.github.io/Product-preview-card-component/)
  
